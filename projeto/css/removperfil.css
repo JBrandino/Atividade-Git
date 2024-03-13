@@ -1,0 +1,74 @@
+/* Importando a fonte 'Sigmar One' do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+
+/* Estilizando o elemento com o ID 'corpo4' */
+#corpo4 {
+    margin: 0 auto; /* Centralizando o conteúdo horizontalmente */
+    flex-direction: column; /* Define a direção dos elementos filhos como coluna */
+    display: flex; /* Define o elemento como um contêiner flexível */
+    align-items: center; /* Centraliza os itens verticalmente */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+}
+
+/* Estilizando o elemento com o ID 'imglogo4' */
+#imglogo4 {
+    margin: 0 auto; /* Centralizando o conteúdo horizontalmente */
+    display: flex; /* Define o elemento como um contêiner flexível */
+}
+
+/* Estilizando elementos com a classe 'logo5' */
+.logo5 {
+    width: 161px; /* Largura da imagem */
+    height: 94px; /* Altura da imagem */
+    margin-top: 70px; /* Espaçamento superior */
+}
+
+/* Estilizando elementos com a classe 'txtremover' */
+.txtremover {
+    color: #720F0F; /* Cor do texto */
+    font-family: 'Sigmar One', cursive; /* Fonte personalizada 'Sigmar One' */
+    font-size: 25px; /* Tamanho da fonte */
+    margin: 0 auto; /* Centralizando o conteúdo horizontalmente */
+    margin-top: 30px; /* Espaçamento superior */
+}
+
+/* Estilizando o elemento com o ID 'perfisremov' */
+#perfisremov {
+    margin: 0 auto; /* Centralizando o conteúdo horizontalmente */
+    align-items: center; /* Centraliza os itens verticalmente */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    display: flex; /* Define o elemento como um contêiner flexível */
+    margin-top: 3%; /* Espaçamento superior */
+}
+
+/* Estilizando elementos com a classe 'freira2', 'chucky2', 'jason2', 'freddy2' e 'panico2' */
+.freira2, .chucky2, .jason2, .freddy2, .panico2 {
+    width: 70px; /* Largura da imagem */
+    height: 270px; /* Altura da imagem */
+    margin: 0 2px; /* Espaçamento horizontal entre elementos */
+}
+
+/* Estilizando o elemento com o ID 'botaorem' */
+#botaorem {
+    margin: 0 auto; /* Centralizando o conteúdo horizontalmente */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza os itens verticalmente */
+    display: flex; /* Define o elemento como um contêiner flexível */
+}
+
+/* Estilizando elementos com a classe 'botaoremover' dentro de uma âncora (a) */
+.botaoremover {
+    width: 357px; /* Largura do botão */
+    height: 44px; /* Altura do botão */
+    font-family: 'Sigmar One', cursive; /* Fonte personalizada 'Sigmar One' */
+    font-size: 20px; /* Tamanho da fonte */
+    background-color: #131313; /* Cor de fundo do botão */
+    border: none; /* Removendo a borda do botão */
+    margin-top: 50px; /* Espaçamento superior */
+}
+
+/* Estilizando a âncora (a) dentro de elementos com a classe 'botaoremover' */
+.botaoremover a {
+    text-decoration: none; /* Removendo decoração de texto (sublinhado) */
+    color: #720F0F; /* Cor do texto */
+}

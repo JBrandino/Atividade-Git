@@ -1,0 +1,132 @@
+/* Importa a fonte 'Sigmar One' do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+
+/* Estiliza o elemento com ID 'corpo2' */
+#corpo2 {
+    margin: 0 auto; /* Centraliza horizontalmente o elemento */
+    align-content: center; /* Centraliza verticalmente os itens dentro do elemento */
+    justify-content: center; /* Centraliza horizontalmente os itens dentro do elemento */
+    display: flex; /* Usa um modelo flexbox para o layout */
+    margin-top: 30px; /* Adiciona margem superior de 30px */
+}
+
+/* Estiliza elementos com classe 'titulo' */
+.titulo {
+    color: #720F0F;
+    font-family: 'Sigmar One', cursive; /* Define a fonte 'Sigmar One' para o texto */
+    font-size: 30px;
+    margin: 0 auto; /* Centraliza horizontalmente o elemento */
+    margin-top: 40px; /* Adiciona margem superior de 40px */
+}
+
+/* Estiliza o elemento com ID 'formulariocadastro' */
+#formulariocadastro {
+    margin: 0 auto; /* Centraliza horizontalmente o elemento */
+    justify-content: center; /* Centraliza horizontalmente os itens dentro do elemento */
+    align-items: center; /* Centraliza verticalmente os itens dentro do elemento */
+    display: flex; /* Usa um modelo flexbox para o layout */
+    flex-direction: column; /* Define a direção da flexbox como coluna */
+}
+
+/* Estiliza elementos com classe 'nome' */
+.nome {
+    background-color: #454545;
+    width: 240px;
+    height: 36px;
+    margin: 0 auto; /* Centraliza horizontalmente o elemento */
+    margin-top: 80px; /* Adiciona margem superior de 80px */
+    font-family: 'Sigmar One', cursive;
+}
+
+/* Estiliza elementos com classe 'e-mail2' */
+.e-mail2 {
+    background-color: #454545;
+    width: 240px;
+    height: 36px;
+    margin: 0 auto; /* Centraliza horizontalmente o elemento */
+    margin-top: 5px; /* Adiciona margem superior de 5px */
+    font-family: 'Sigmar One', cursive;
+}
+
+/* Estiliza elementos com classe 'data-nascimento' */
+.data-nascimento {
+    background-color: #454545;
+    width: 240px;
+    height: 36px;
+    margin: 0 auto; /* Centraliza horizontalmente o elemento */
+    margin-top: 5px; /* Adiciona margem superior de 5px */
+    font-family: 'Sigmar One', cursive;
+}
+
+/* Estiliza elementos com classe 'senha2' */
+.senha2 {
+    background-color: #454545;
+    width: 240px;
+    height: 36px;
+    margin: 0 auto; /* Centraliza horizontalmente o elemento */
+    margin-top: 5px; /* Adiciona margem superior de 5px */
+    font-family: 'Sigmar One', cursive;
+}
+
+/* Estiliza o elemento com ID 'cadastro1' */
+#cadastro1 {
+    margin: 0 auto; /* Centraliza horizontalmente o elemento */
+    justify-content: center; /* Centraliza horizontalmente os itens dentro do elemento */
+    align-items: center; /* Centraliza verticalmente os itens dentro do elemento */
+    display: flex; /* Usa um modelo flexbox para o layout */
+    flex-direction: column; /* Define a direção da flexbox como coluna */
+}
+
+/* Estiliza elementos com classe 'txtcadastro' */
+.txtcadastro {
+    color: #720F0F;
+    font-family: 'Sigmar One', cursive;
+    margin: 0 auto; /* Centraliza horizontalmente o elemento */
+    margin-top: 40px; /* Adiciona margem superior de 40px */
+}
+
+/* Estiliza elementos com classe 'botaocadastro' */
+.botaocadastro {
+    color: #720F0F;
+    font-family: 'Sigmar One', cursive;
+    background-color: #131313;
+    border: none; /* Remove a borda */
+    margin: auto; /* Centraliza horizontalmente o elemento */
+    margin-top: 40px; /* Adiciona margem superior de 40px */
+    width: 240px;
+    height: 36px;
+    font-size: 15px;
+}
+
+/* Estiliza elementos 'a' dentro de elementos com classe 'botaocadastro' */
+.botaocadastro a {
+    text-decoration: none; /* Remove a decoração de texto (sublinhado) */
+    color: #720F0F;
+}
+
+/* Estiliza elementos com classe 'login' */
+.login {
+    margin: 0 auto; /* Centraliza horizontalmente o elemento */
+    font-family: 'Sigmar One', cursive;
+    font-size: 13px;
+    margin-top: 15px; /* Adiciona margem superior de 15px */
+}
+
+/* Estiliza elementos 'a' dentro de elementos com classe 'login' */
+.login a {
+    text-decoration: none;
+    color: #454545;
+}
+
+/* Estiliza elementos com classe 'mao' */
+.mao {
+    display: flex;
+    margin-left: calc(100% - 166px); /* Calcula a margem esquerda */
+    margin-top: -590px; /* Define a margem superior como -590px */
+}
+
+/* Estiliza elementos com classe 'mao2' */
+.mao2 {
+    display: flex;
+    margin-top: -626px; /* Define a margem superior como -626px */
+}

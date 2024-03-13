@@ -1,0 +1,80 @@
+/* Importa a fonte 'Sigmar One' do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+
+/* Estiliza o elemento com ID 'corpo' */
+#corpo {
+    margin: auto; /* Centraliza horizontalmente o elemento */
+    width: 257px;
+}
+
+/* Estiliza elementos com classe 'imglogo' */
+.imglogo {
+    width: 257px;
+    height: 150px;
+    margin-top: 120px; /* Adiciona margem superior de 120px */
+}
+
+/* Estiliza elementos com classe 'e-mail' */
+.e-mail {
+    background-color: #454545;
+    width: 240px;
+    height: 36px;
+    margin-top: 80px; /* Adiciona margem superior de 80px */
+    font-family: 'Sigmar One', cursive; /* Define a fonte 'Sigmar One' para o texto */
+}
+
+/* Estiliza elementos com classe 'senha' */
+.senha {
+    background-color: #454545;
+    width: 240px;
+    height: 36px;
+    margin-top: 8px; /* Adiciona margem superior de 8px */
+    font-family: 'Sigmar One', cursive;
+}
+
+/* Estiliza elementos com classe 'botaoconectar' */
+.botaoconectar {
+    background-color: #131313;
+    width: 246px;
+    height: 36px;
+    margin-top: 5px; /* Adiciona margem superior de 5px */
+    font-family: 'Sigmar One', cursive;
+    color: #720F0F;
+    text-align: center;
+    border: none; /* Remove a borda */
+}
+
+/* Estiliza elementos 'a' dentro de elementos com classe 'botaoconectar' */
+.botaoconectar a {
+    text-decoration: none; /* Remove a decoração de texto (sublinhado) */
+    color: #720F0F;
+}
+
+/* Estiliza elementos com classe 'cadastro' */
+.cadastro {
+    color: #454545;
+    font-family: 'Sigmar One', cursive;
+    font-size: 15px;
+    margin-left: 60px; /* Define a margem esquerda como 60px */
+    margin-top: 90px; /* Adiciona margem superior de 90px */
+}
+
+/* Estiliza elementos 'a' dentro de elementos com classe 'cadastro' */
+.cadastro a {
+    text-decoration: none;
+    color: #454545;
+}
+
+/* Estiliza elementos com classe 'mao' */
+.mao {
+    display: flex;
+    margin-left: calc(100% - 166px); /* Calcula a margem esquerda */
+    margin-top: -600px; /* Define a margem superior como -600px */
+}
+
+/* Estiliza elementos com classe 'mao2' */
+.mao2 {
+    display: flex;
+    margin-top: -626px; /* Define a margem superior como -626px */
+}
+

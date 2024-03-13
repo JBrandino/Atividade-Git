@@ -1,0 +1,88 @@
+/* Importando a fonte 'Sigmar One' do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+
+/* Estilizando o elemento com o ID 'corpo3' */
+#corpo3 {
+    margin: 0 auto; /* Define margem para 0 nos lados esquerdo e direito, o que centraliza horizontalmente */
+    display: flex; /* Define o elemento como um contêiner flexível */
+    flex-direction: column; /* Adicionando flex-direction para exibir os elementos em uma coluna vertical */
+    align-items: center; /* Centraliza os itens verticalmente */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+}
+/* Estilizando o elemento com o ID 'imglogo3' */
+#imglogo3 {
+    margin: 0 auto; /* Centralizando o conteúdo horizontalmente */
+    flex-direction: column;
+}
+
+/* Estilizando elementos com a classe 'logo4' */
+.logo4 {
+    width: 161px; /* Largura da imagem */
+    height: 94px; /* Altura da imagem */
+    margin: 0 auto ; /* Centralizando o conteúdo horizontalmente */
+    margin-top: 50px; /* Espaçamento superior */
+    flex-direction: column;
+}
+
+/* Estilizando elementos com a classe 'nomeperfil' */
+.nomeperfil {
+    background-color: #454545; /* Cor de fundo */
+    width: 357px; /* Largura do elemento */
+    height: 44px; /* Altura do elemento */
+    margin: 0 auto ; /* Centralizando o conteúdo horizontalmente */
+    margin-top: 50px; /* Espaçamento superior */
+    font-family: 'Sigmar One', cursive; /* Fonte personalizada 'Sigmar One' */
+    border: none; /* Removendo a borda */
+    align-items: center; /* Centraliza os itens verticalmente */
+    flex-direction: column;
+}
+
+/* Estilizando elementos com a classe 'slenderman' */
+.slenderman {
+    width: 357px; /* Largura da imagem */
+    height: 90px; /* Altura da imagem */
+    margin: 0 auto ; /* Centralizando o conteúdo horizontalmente */
+    margin-top: 30px; /* Espaçamento superior */
+    flex-direction: column;
+}
+
+/* Estilizando elementos com a classe 'jogosmortais' */
+.jogosmortais {
+    width: 357px; /* Largura da imagem */
+    height: 90px; /* Altura da imagem */
+    margin: 0 auto ; /* Centralizando o conteúdo horizontalmente */
+    margin-top: 30px; /* Espaçamento superior */
+    flex-direction: column;
+}
+
+/* Estilizando elementos com a classe 'maisfotos' */
+.maisfotos {
+    color: #720F0F; /* Cor do texto */
+    font-family: 'Sigmar One', cursive; /* Fonte personalizada 'Sigmar One' */
+    font-size: 15px; /* Tamanho da fonte */
+    text-align: center; /* Alinhamento de texto centralizado */
+    margin-top: 20px; /* Espaçamento superior */
+    flex-direction: column;
+}
+
+/* Estilizando elementos com a classe 'adicionar' */
+.adicionar {
+    width: 357px; /* Largura do botão */
+    height: 44px; /* Altura do botão */
+    background-color: #131313; /* Cor de fundo do botão */
+    display: flex; /* Define o elemento como um contêiner flexível */
+    margin: 0 auto ; /* Centralizando o conteúdo horizontalmente */
+    margin-top: 40px; /* Espaçamento superior */
+    border: none; /* Removendo a borda do botão */
+    font-size: 20px; /* Tamanho da fonte */
+    font-family: 'Sigmar One', cursive; /* Fonte personalizada 'Sigmar One' */
+    align-items: center; /* Centraliza os itens verticalmente */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    flex-direction: column;
+}
+
+/* Estilizando a âncora (a) dentro de elementos com a classe 'adicionar' */
+.adicionar a {
+    text-decoration: none; /* Removendo decoração de texto (sublinhado) */
+    color: #720F0F; /* Cor do texto */
+}

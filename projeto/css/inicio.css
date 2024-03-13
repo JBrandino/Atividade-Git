@@ -1,0 +1,147 @@
+/* Importa a fonte 'Sigmar One' do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+
+/* Estiliza o elemento com ID 'inicio1' */
+#inicio1 {
+  display: flex; /* Usa um modelo flexbox para o layout */
+  margin: 0 auto; /* Define margens esquerda e direita como 'auto' para centralizar o elemento horizontalmente */
+  align-items: center; /* Centraliza verticalmente os itens dentro do elemento */
+  justify-content: center; /* Centraliza horizontalmente os itens dentro do elemento */
+}
+
+/* Estiliza o elemento com ID 'inicio2' (muito semelhante ao 'inicio1') */
+#inicio2 {
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Estiliza elementos com classe 'logo' */
+.logo {
+  width: 865px;
+  height: 530px;
+  margin: auto; /* Centraliza horizontalmente o elemento */
+  margin-top: 50px; /* Adiciona margem superior de 50px */
+}
+
+/* Estiliza elementos com classe 'botaologin' */
+.botaologin {
+  width: 150px;
+  height: 30px;
+  background-color: #720f0f;
+  font-family: 'Sigmar One', cursive; /* Define a fonte 'Sigmar One' para o texto */
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  border: none; /* Remove a borda */
+  margin: auto; /* Centraliza horizontalmente o elemento */
+  margin-top: 40px; /* Adiciona margem superior de 40px */
+}
+
+/* Estiliza elementos 'a' dentro de elementos com classe 'botaologin' */
+.botaologin a {
+  text-decoration: none; /* Remove a decoração de texto (sublinhado) */
+  color: black;
+  text-align: center;
+}
+/* Estiliza o elemento 'footer' */
+footer {
+  padding: 10px;
+  display: flex;
+  justify-content: center; /* Centraliza horizontalmente os itens dentro do elemento */
+  align-items: center; /* Centraliza verticalmente os itens dentro do elemento */
+  margin-top: 110px;
+}
+
+/* Estiliza elementos com classe 'copyright' */
+.copyright {
+  font-family: 'Sigmar One', cursive;
+  margin: 0 auto; /* Centraliza horizontalmente o elemento */
+  color: #720f0f;
+  display: flex;
+  margin-left: 0; /* Define a margem esquerda como 0 */
+}
+
+/* Estiliza elementos com classe 'imginstagram' */
+.imginstagram {
+  width: 30px;
+  height: 30px;
+}
+
+/* Estiliza elementos com classe 'redesocial1' */
+.redesocial1 {
+  font-family: 'Sigmar One', cursive;
+  color: #720f0f;
+}
+
+/* Estiliza elementos com classe 'imgfacebook' */
+.imgfacebook {
+  width: 30px;
+  height: 30px;
+  margin-left: 30px; /* Adiciona margem à esquerda de 30px */
+}
+
+/* Estiliza elementos com classe 'redesocial2' */
+.redesocial2 {
+  font-family: 'Sigmar One', cursive;
+  color: #720f0f;
+}
+/* RESPONSIVIDADE*/
+@media screen and (min-width: 0px) and (max-width: 500px) {
+  #inicio1 {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+  }
+
+  .logo {
+    width: 394px;
+    height: 230px;
+    margin-top: 110px;
+  }
+
+  #inicio2 {
+    display: flex;
+    align-items: center;
+  }
+
+  .botaologin {
+    width: 161px;
+    height: 30px;
+    margin-top: 70px;
+  }
+
+footer{
+    width: 100%;
+    padding-left: -100px;
+    height: 100px;
+
+}
+#direitos{
+    margin-top: 200px;
+    margin-left: -250px;
+    color: #fff;
+}
+
+
+.redesocial1 {
+    font-size: 15px;
+  }
+.redesocial2 {
+    font-size: 15px;
+  }
+.imgfacebook {
+    width: 30px;
+    height: 30px;
+ /* Adiciona margem à esquerda de 30px */
+  }
+  
+.imginstagram {
+    width: 30px;
+    height: 30px;
+
+  }
+
+
+}

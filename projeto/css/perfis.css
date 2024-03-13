@@ -1,0 +1,50 @@
+/* Estilizando elementos com a classe 'logo3' */
+.logo3 {
+    width: 190px; /* Largura da imagem */
+    height: 100px; /* Altura da imagem */
+    margin: 0 auto; /* Centralizando o conteúdo horizontalmente */
+    margin-top: 50px; /* Espaçamento superior */
+    display: flex; /* Define o elemento como um contêiner flexível */
+}
+
+/* Estilizando o elemento com o ID 'perfis1' */
+#perfis1 {
+    display: flex; /* Define o elemento como um contêiner flexível */
+    margin: 0 auto; /* Centralizando o conteúdo horizontalmente */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza os itens verticalmente */
+    margin-top: 5%; /* Espaçamento superior */
+    height: 359px; /* Altura do elemento */
+    width: 470px; /* Largura do elemento */
+}
+
+/* Estilizando elementos com a classe 'freira', 'chucky', 'jason', 'freddy' e 'panico' */
+.freira, .chucky, .jason, .freddy, .panico {
+    width: 92px; /* Largura da imagem */
+    height: 359px; /* Altura da imagem */
+    margin: 0 5px; /* Espaçamento horizontal entre elementos */
+}
+
+/* Estilizando o elemento com o ID 'botoes1' */
+#botoes1 {
+    justify-content: right; /* Alinha os elementos à direita horizontalmente */
+    align-items: right; /* Alinha os elementos à direita verticalmente */
+    display: flex; /* Define o elemento como um contêiner flexível */
+    flex-direction: column; /* Define a direção dos elementos filhos como coluna */
+    margin: 0 auto; /* Centralizando o conteúdo horizontalmente */
+    margin-left: 50px; /* Espaçamento à esquerda */
+}
+
+/* Estilizando elementos com a classe 'addperfil' */
+.addperfil {
+    width: 110px; /* Largura da imagem */
+    height: 110px; /* Altura da imagem */
+}
+
+/* Estilizando elementos com a classe 'removperfil' */
+.removperfil {
+    width: 110px; /* Largura da imagem */
+    height: 110px; /* Altura da imagem */
+    padding-top: 70px; /* Preenchimento superior */
+    margin-top: 65px; /* Espaçamento superior */
+}
