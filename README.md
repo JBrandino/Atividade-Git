@@ -36,19 +36,21 @@
 
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/795daf86-07a8-46f3-b2f6-f02fea5792fb)
 
-<h3></h3>
+<h3>Comando utilizado para limpar a tela.</h3>
 
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/5aae440b-710c-496e-b96b-f28062c22ad1)
 
-<h3></h3>
+<h3>Para adicionar mais coisas no projeto, iremos fazer um segundo commit no arquivo txt.</h3>
 
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/f5b2d153-54f3-4abf-9d3c-22979e3c140e)
 
-<h3></h3>
+<h3>Agora iremos fazer o commit novamente, com o comando git commit -m "filmes de terror"</h3>
 
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/0f2f9009-3a46-46fb-84cf-a913a82a66cc)
 
-<h3></h3>
+<h2>Agora crie um local/repositório no GitHub</h2>
+<h4>Configure com sua preferência o seu repositório.</h4>
+<h3>Na tela seguinte, irá aparecer dois blocos de comando, copie a primeira linha do segundo bloco e cole no seu gitBash. Essa linha se comunica do gitbash para o github.</h3>
 
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/3f2b1232-b2ac-4bc0-9e5d-99e4420489d5)
 
