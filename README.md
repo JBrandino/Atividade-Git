@@ -12,13 +12,16 @@
 
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/0afe65f0-fc71-4c7c-85c4-7597591b9788)
 
-Agora crie um um arquivo .txt dentro da pasta desse projeto e escreva "Primeiro Commit"
+<h3>Agora crie um um arquivo .txt dentro da pasta desse projeto e escreva "Primeiro Commit".</h3>
 
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/46159310-3230-4d89-b75d-1d0fa6d8758d)
 
-<h3>O comando git Status, vai mostrar as informações do projeto, ou seja, seu status atual. Dentre essas informações, aparecerá um comando em vermelho, demonstrando o arquivo .txt que não foi adicionado ainda</h3>
+<h3>O comando git Status, vai mostrar as informações do projeto, ou seja, seu status atual. Dentre essas informações, aparecerá um comando em vermelho, demonstrando o arquivo .txt que não foi adicionado ainda.</h3>
 
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/787e1607-5237-490e-b76f-4488b98b79cf)
+
+<h3>O comando git add. adiciona o que está em vermelho na linha do tempo do git status, para poder ser comitado.</h3>
+
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/a61ea8bf-3a76-4ed4-8cb1-57b0600bab43)
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/8e53f4de-f28d-4b6a-98d6-b463e5ed6baa)
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/795daf86-07a8-46f3-b2f6-f02fea5792fb)
