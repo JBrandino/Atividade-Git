@@ -1,5 +1,5 @@
 <h1>Descrição e passo a passo detalhado dos comandos do gitBash e gitHub</h1>
-<h2>2º A MTEC - Desenvolvimento de Sistemas
+<h2>2º A MTEC - Desenvolvimento de Sistemas -
 João Francisco Brandino de Souza e Rafael Henrique Oliveira Rocha</h2>
 
 <h3>O primeiro comando, "git init", no git bash, é utilizado para criar um novo projeto. Quando Inicializado é criado uma pasta oculta .git que é gerenciada pelo próprio Git Bash.</h3>
