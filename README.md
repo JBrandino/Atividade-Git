@@ -1,9 +1,25 @@
+<h1></h1>
+
+<h3>O primeiro comando, "git init", no git bash, é utilizado para criar um novo projeto. Quando Inicializado é criado uma pasta oculta .git que é gerenciada pelo próprio Git Bash.</h3>
+
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/7cb670f9-2b79-459b-89f1-c7ff10b83f89)
+
+<h3>Comando para adicionar seu nome ao Git bash em sua conta.</h3>
+
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/9ef93c2f-ea95-4eba-9e4d-e5cedc500065)
+
+<h3>Agora digite o email que foi usado para criar sua conta no GitHub, dentro das aspas.</h3>
+
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/0afe65f0-fc71-4c7c-85c4-7597591b9788)
+
+Agora crie um um arquivo .txt dentro da pasta desse projeto e escreva "Primeiro Commit"
+
+![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/46159310-3230-4d89-b75d-1d0fa6d8758d)
+
+O comando git Status, vai mostrar as informações do projeto, ou seja, seu status atual. Dentre essas informações, aparecerá um comando em vermelho, demonstrando o arquivo .txt que não foi adicionado ainda
+
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/787e1607-5237-490e-b76f-4488b98b79cf)
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/a61ea8bf-3a76-4ed4-8cb1-57b0600bab43)
-![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/46159310-3230-4d89-b75d-1d0fa6d8758d)
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/8e53f4de-f28d-4b6a-98d6-b463e5ed6baa)
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/795daf86-07a8-46f3-b2f6-f02fea5792fb)
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/5aae440b-710c-496e-b96b-f28062c22ad1)
