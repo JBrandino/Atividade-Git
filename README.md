@@ -1,4 +1,6 @@
-<h1></h1>
+<h1>Descrição e passo a passo detalhado dos comandos do gitBash e gitHub</h1>
+<h2>2º A MTEC - Desenvolvimento de Sistemas
+João Francisco Brandino de Souza e Rafael Henrique Oliveira Rocha</h2>
 
 <h3>O primeiro comando, "git init", no git bash, é utilizado para criar um novo projeto. Quando Inicializado é criado uma pasta oculta .git que é gerenciada pelo próprio Git Bash.</h3>
 
@@ -54,23 +56,25 @@
 
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/3f2b1232-b2ac-4bc0-9e5d-99e4420489d5)
 
-<h3></h3>
+<h3>agora copie a segunda linha e dê enter em seu gitBash, ela troca o Branch Master pelo main.</h3>
 
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/77f7025b-0e7a-445c-9a04-e4b062f919dd)
 
-<h3></h3>
+<h3>Agora copie a terceira linha, com o comando git push -u origin main, que deixa todos os commits do projeto vísiveis.</h3>
 
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/b2e45866-c61b-4181-9971-2f01c631cd5f)
 
-<h3></h3>
+<h2>Como adicionar uma pessoa ao repositório/projeto</h2>
+<h4>Segue o passo a passo</h4>
+<h3>Abra a página inicial do gitHub e acesse as configurações.</h3>
 
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/b27797c0-5d9c-4edd-b2d6-d74daa2e5986)
 
-<h3></h3>
+<h3>Agora na barra lateral, acesse o botão colaboradores.</h3>
 
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/6dcd6ade-a5b0-4858-ae4f-fd2ced4e6147)
 
-<h3></h3>
+<h3>Agora pesquise o nome de usuário de quem você gostaria de adicionar ao repositório para adicionar ao projeto.</h3>
 
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/f1081c23-a5ac-4ffc-83dd-e43b30364946)
 
