@@ -28,11 +28,11 @@
 
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/787e1607-5237-490e-b76f-4488b98b79cf)
 
-<h3></h3>
+<h3>O comando git commit -m "projeto github" cria o commit e o -m significa que precisa colocar uma mensagem para descrever o que foi feito</h3>
 
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/8e53f4de-f28d-4b6a-98d6-b463e5ed6baa)
 
-<h3></h3>
+<h3> Agora para verificar se o versionamento deu certo, digite o comando git log, que um valor enorme com números e letras para o seu commit, junto com o autor, data, hora, ano e mensagem que foi feita.</h3>
 
 ![image](https://github.com/JBrandino/Atividade-Git/assets/163308110/795daf86-07a8-46f3-b2f6-f02fea5792fb)
 
